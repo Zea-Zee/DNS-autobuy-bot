@@ -1,0 +1,464 @@
+{
+  "users": [
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsr.egergovnopro.f.ile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "46.8.57.137:5500",
+        "login": "LwrH7A",
+        "password": "zlqCIAysjh"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsr.egergovnopro.fi.le@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "194.35.113.81:5500",
+        "login": "LwrH7A",
+        "password": "zlqCIAysjh"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsr.egergovnopro.fil.e@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "91.188.244.20:5500",
+        "login": "LwrH7A",
+        "password": "zlqCIAysjh"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsr.egergovnoprof.i.le@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "194.156.123.198:5500",
+        "login": "LwrH7A",
+        "password": "zlqCIAysjh"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsr.egergovnoprof.il.e@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "45.139.177.233:5500",
+        "login": "LwrH7A",
+        "password": "zlqCIAysjh"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsr.egergovnoprofi.l.e@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "46.8.222.122:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.v.noprofile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "188.130.143.18:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Иван",
+      "lastName": "Васильев",
+      "birthDate": "18092003",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vn.oprofile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "46.8.212.6:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vno.profile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "188.130.220.130:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vnop.rofile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "109.248.49.187:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vnopr.ofile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "45.134.181.219:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vnopro.file@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "45.134.182.41:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vnoprof.ile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "45.134.183.232:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vnoprofi.le@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "45.142.252.212:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergo.vnoprofil.e@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": {
+        "ipPort": "193.58.168.3:5500",
+        "login": "M1UQtG",
+        "password": "oxMcwr8IyT"
+      },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    },
+    {
+      "name": "Григорий",
+      "lastName": "Ревякин",
+      "birthDate": "21012004",
+      "nickName": "takeStock",
+      "password": "dnsZalupa1488",
+      "email": {
+        "user": "d.nsre.gergov.n.oprofile@gmail.com",
+        "password": "ALbukerke47",
+        "host": "imap.gmail.com",
+        "port": 993,
+        "tls": true,
+        "tlsOptions": { "servername": "imap.gmail.com" },
+        "codes": []
+      },
+      "mobile": { "number": 0, "tzid": 0, "mobileCodes": [] },
+      "proxy": { "ipPort": "", "login": "", "password": "" },
+      "startData": {
+        "startTime": "h:8 m:00 s:00",
+        "href": "https://www.dns-shop.ru/ordering/9ef8c6972239a8ec/",
+        "position": 1
+      },
+      "isError": false,
+      "isFilled": false
+    }
+  ]
+}

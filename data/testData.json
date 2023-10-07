@@ -1,0 +1,425 @@
+{
+    "someData": {
+        "simAPIKey": "09b6c080d1d47622c16e6145145be53e"
+    },
+    "users": [
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "dnsregergovno.profile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "dnsregergovnopro.file@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "dnsregergovnoprofi.l.e@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "dnsregergovnoprofil.e@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "dnsregergovnoprofile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "dnsregergovnoprofile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "d.nsregergovnoprofile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "d.n.sregergovnoprofile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "d.n.s.regergovnoprofile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "d.n.s.r.egergovnoprofile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        },
+        {
+            "name": "Gleb",
+            "lastName": "Kuznetsov",
+            "nickName": "takeStock",
+            "email": {
+                "user": "d.n.s.r.e.gergovnoprofile@gmail.com",
+                "password": "ALbukerke47",
+                "host": "imap.gmail.com",
+                "port": 993,
+                "tls": true,
+                "tlsOptions": {
+                    "servername": "imap.gmail.com"
+                },
+                "codes": [
+
+                ]
+            },
+            "mobile": {
+                "number": 0,
+                "tzid": 0,
+                "mobileCodes": []
+            },
+            "birthDate": "27022004",
+            "proxy": {
+                "isProxy": true,
+                "ipPort": "2281488",
+                "nickPass": "9917845"
+            },
+            "isCatch": false,
+            "hrefs": [
+
+            ],
+            "startData": {
+                "startTime": "h:20 m:24 s:13",
+                "href": "https://www.dns-shop.ru/product/f2211954eb6ed763/videokarta-zotac-gaming-geforce-rtx-3070-ti-amp-holo-zt-a30710f-10p",
+                "position": 1
+            }
+        }
+    ]
+}
